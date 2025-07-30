@@ -1,6 +1,6 @@
 {
   "displayName": "Homebridge Samsung WindFree AC",
-  "name": "homebridge-samsung-windfree-ac",
+  "name": "@qubiack/homebridge-samsung-windfree-ac",
   "version": "2.0.0",
   "description": "Homebridge plugin for Samsung WindFree AC with support for OAuth2 (not required to change token everyday). Base on https://github.com/igorxmath/homebridge-samsung-windfree-ac/",
   "license": "Apache-2.0",
